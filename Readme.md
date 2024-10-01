@@ -25,6 +25,7 @@ The website’s library covers a diverse range of genres, including action, roma
 <a href='https://github.com/codeslide/vegamovies' target='_blank'>vegamovies</a></br>
 <a href='https://github.com/codeslide/mp4moviez' target='_blank'>mp4moviez</a></br>
 <a href='https://github.com/codeslide/luxmovies' target='_blank'>Luxmovies</a></br>
+<a href='https://github.com/codeslide/bollyflix' target='_blank'>Bollyflix</a></br>
 <br/>
 
 Key Features of Filmyzilla
